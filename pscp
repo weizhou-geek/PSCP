@@ -1,0 +1,1 @@
+pscp user@ip:/file \local_dir
