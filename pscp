@@ -1,1 +1,1 @@
-pscp user@ip:/file \local_dir
+.\pscp.exe -r user@ip:/file \local_dir
